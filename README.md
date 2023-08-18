@@ -3,26 +3,6 @@ This is for the Professional Portfolio assignment from module 2 of my boot camp.
 Portfolio Project README
 Welcome to my portfolio project! This README file will provide you with all the necessary information to understand and navigate through my project.
 
-Installation
-To install and set up this portfolio project locally, please follow these steps:
-
-Clone the repository to your local machine using the following command:
-Copy
-git clone https://github.com/your-username/portfolio-project.git
-Navigate to the project directory:
-Copy
-cd portfolio-project
-Install the project dependencies:
-Copy
-npm install
-Usage
-To view and interact with the portfolio, follow these steps:
-
-Start the development server:
-Copy
-npm start
-Open your web browser and visit http://localhost:3000 to access the portfolio.
-Features
 This portfolio project includes the following features:
 
 Home page: Provides an introduction and overview of my skills and experience.
@@ -42,7 +22,7 @@ License
 This project is licensed under the MIT License.
 
 Contact
-If you have any questions or feedback or just want to connect, feel free to contact me. You can find my contact information below:
+If you have any questions or feedback or want to connect, feel free to contact me. You can find my contact information below:
 
 Email: [Zackseriousemail@gmail.com]
 LinkedIn: [www.linkedin.com/in/joel-koford-03b6aa25b]
